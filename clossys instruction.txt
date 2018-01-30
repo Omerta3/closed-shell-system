@@ -1,0 +1,13 @@
+原文：
+
+Archive contains:
+1. clossys6.3.2.exe - install extension to tor + reconf connection settings (you can check exe-file at virustotal);
+2. flow.ini - copy that file to the directory **** (see instrct.txt);
+3. instrct.txt - instructions what copy/where/why and list of .clos sites with descriptions + tip's how to get to the next level.
+
+google翻译：
+
+存档包含：
+1. clossys6.3.2.exe - 安装扩展到tor + reconf连接设置（您可以检查exe文件在virustotal）;
+2. flow.ini - 将该文件复制到目录****（参见instrct.txt）;
+3. instrct.txt - 说明什么副本/哪里/为什么和列出.clos网站与描述+提示如何达到一个新的水平。
